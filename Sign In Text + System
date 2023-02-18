@@ -1,0 +1,6 @@
+print ("Sign in")
+
+username_input = input ("username;")
+password_input = input ("password;")
+if password_input = password print ("Invalid password")
+if username_input = username print ("Invalid username")
