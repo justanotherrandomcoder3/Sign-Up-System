@@ -1,0 +1,6 @@
+print ("Sign Up')
+
+username = input ("username;")
+password = input ("password;")
+
+print ("We'll keep this information private.")
